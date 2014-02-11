@@ -13,8 +13,8 @@
 	"require": {
 		"php": ">=5.4.0",
 		"ext-gd": "*",
-		"illuminate/support": ">=4.1.21",
-		"illuminate/validation": ">=4.1.21"
+		"illuminate/support": "*",
+		"illuminate/validation": "*"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "3.7.*",
